@@ -2,7 +2,7 @@
 
 > An AI-powered research agent that generates comprehensive, well-cited content on any topic using multi-agent workflows.
 
-[![Python 3.8+](https://img.shields.(https://img.shields.tps://img.shields.ow is an intelligent research assistant that combines the power of Google's Gemini AI with web search capabilities to produce detailed, factual content with proper citations. Unlike traditional AI responses, ResearchFlow ensures every claim is backed by verifiable sources.
+ReaserchFlow is an intelligent research assistant that combines the power of Google's Gemini AI with web search capabilities to produce detailed, factual content with proper citations. Unlike traditional AI responses, ResearchFlow ensures every claim is backed by verifiable sources.
 
 ## ✨ Features
 
