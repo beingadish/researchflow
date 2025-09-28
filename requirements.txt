@@ -1,0 +1,8 @@
+langchain_community
+langchain-tavily
+langchain
+python-dotenv
+langchain-google-genai
+langgraph==0.3.21
+grandalf
+langchain-openai
